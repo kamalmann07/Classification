@@ -1,0 +1,1 @@
+This Binary classification problem has been resolved using Feed Forward Neural Networks. Min Max Normalization technique has been used for data preprocessing.
